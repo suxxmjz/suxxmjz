@@ -21,8 +21,9 @@ Here are some ideas to get you started:
 
 ➼github page still in progress so please ʕ •ᴥ•ʔ with me
 
-
-### Now Playing
+&nbsp;
+#### *Now Playing*
 ![Spotify](https://suxxmjz.vercel.app/api/spotify)
+
 
 [![LinkedIn](https://github.com/suxxmjz/suxxmjz/blob/addLogo/linkedIn.png)](https://www.linkedin.com/in/sukritisharma02/)
