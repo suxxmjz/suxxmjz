@@ -25,4 +25,4 @@ Here are some ideas to get you started:
 ### Now Playing
 ![Spotify](https://suxxmjz.vercel.app/api/spotify)
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sukritisharma02/)
+[![LinkedIn](https://github.com/suxxmjz/suxxmjz/blob/addLogo/linkedIn.png)](https://www.linkedin.com/in/sukritisharma02/)
