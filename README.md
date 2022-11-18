@@ -1,4 +1,4 @@
-### Hi there 👋
+### you found me 💫
 
 <!--
 **suxxmjz/suxxmjz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,6 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h3 align="left"Now Playing:<\h3>
+➼hi! i'm su and i'm a driven software engineering student at UofC
 
+➼my previous experience includes android automation using python and the occasional dapple in web dev using HTML, CSS and React
+
+➼github page still in progress so please 🐻 with me
+
+
+### Now Playing
 ![Spotify](https://suxxmjz.vercel.app/api/spotify)
