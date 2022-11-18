@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 <h3 align="left"Now Playing:<\h3>
 
-[![Spotify](https://suxxmjz.vercel.app/api/spotify)]
+![Spotify](https://suxxmjz.vercel.app/api/spotify)
