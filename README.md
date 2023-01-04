@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ➼my previous experience includes android automation using python and the occasional dapple in web dev using HTML, CSS and React
 
-➼github page still in progress so please ʕ •ᴥ•ʔ with me
+➼feel free to reach out to me on linkedin using the button below 
 
 &nbsp;
 #### *Now Playing*
