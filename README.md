@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ➼hi! i'm su and i'm a driven 3rd software engineering student at UofC
 
-➼my previous experience includes android automation using python and the occasional dapple in web dev using HTML, CSS and React
+➼my previous experience includes android automation using python and enhancing web applications using HTML, CSS, JavaScript,PHP and React
 
 ➼feel free to reach out to me on linkedin using the button below 
 
